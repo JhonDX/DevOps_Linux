@@ -1,0 +1,1 @@
+Remove todos os recursos gerenciados pelo Terraform. Também pede confirmação.

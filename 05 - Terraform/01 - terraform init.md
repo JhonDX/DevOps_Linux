@@ -1,0 +1,2 @@
+**`terraform init`**  
+Inicializa o projeto: baixa os providers (ex: AWS) e módulos declarados, e configura o backend (no seu caso, o bucket S3). É o primeiro comando a rodar em qualquer pasta nova ou quando você adiciona um módulo/provider.
