@@ -1,4 +1,4 @@
-Linux Essentials
+DevOps
 
 Repositório destinado aos meus estudos e documentação sobre Linux Essentials.
 
